@@ -1,0 +1,24 @@
+
+*{
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+ width: 800px;
+ background-color: lavenderblush;
+ margin: 0px auto;
+ padding: 2px auto;
+}
+.subcontents{ 
+ position: relative;
+ margin: 0px auto;
+ display: inline-block;
+ text-align: center;
+}
+
+img {
+	height: 300px;
+	width: 275px;
+	display: inline-block;
+	border: 3px solid purple;
+}
