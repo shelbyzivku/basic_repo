@@ -4,14 +4,15 @@
  padding: 0px;
 }
 #wrapper{
- width: 800px;
+ width: 1000px;
  background-color: lavenderblush;
  margin: 0px auto;
  padding: 2px auto;
+ text-align: center;
 }
 .subcontents{ 
  position: relative;
- margin: 0px auto;
+ margin: 3px auto;
  display: inline-block;
  text-align: center;
 }
